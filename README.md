@@ -28,5 +28,5 @@ It helps in inventory management, product listing, and easy shopping experience.
 4. Open browser and test
 #*Author
 vijayalakshmi
-## Author
-Vijayalakshmi
+#screenshots
+![Home Page](screenshot(46).png)
