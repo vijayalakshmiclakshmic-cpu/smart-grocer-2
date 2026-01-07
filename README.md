@@ -1,5 +1,4 @@
 # Smart Grocer
-
 ## Description
 Smart Grocer is a web-based application designed to manage the  grocery items efficiently.
 It helps in inventory management, product listing, and easy shopping experience.
