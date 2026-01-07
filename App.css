@@ -1,0 +1,39 @@
+body {
+  background-color: #f0f8ff;
+}
+
+.container {
+  width: 400px;
+  margin: auto;
+  margin-top: 50px;
+  text-align: center;
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+input {
+  padding: 8px;
+  width: 70%;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 8px 15px;
+  background-color: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background-color: #e0f7fa;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+}
