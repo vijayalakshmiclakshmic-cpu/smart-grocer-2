@@ -26,7 +26,7 @@ It helps in inventory management, product listing, and easy shopping experience.
 2. Open frontend folder
 3. Run backend server
 4. Open browser and test
-#*Author
+##Author
 vijayalakshmi
-#screenshots
-![Home Page](screenshot(46).png)
+##screenshots
+![Home Page](screenshot46.png)
