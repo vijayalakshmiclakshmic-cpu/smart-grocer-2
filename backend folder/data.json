@@ -1,0 +1,13 @@
+{
+  "budget": 5000,
+  "expenses": [
+    {
+      "item": "Vegetables",
+      "amount": 250
+    },
+    {
+      "item": "Milk",
+      "amount": 120
+    }
+  ]
+}
